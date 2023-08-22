@@ -1,5 +1,5 @@
 # Project-1
-Data analysis and manipulation with pandas and matplotlib
+Data analysis and manipulation with Pandas and Matplotlib
 <br />
 ## Overview
 My team and I were tasked with answering the folowing questions:
