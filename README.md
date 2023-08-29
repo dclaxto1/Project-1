@@ -1,5 +1,5 @@
 # Project-1
-Data analysis and manipulation with Pandas and Matplotlib
+Data analysis and manipulation with Pandas, Matplotlib, and OMDB API.
 <br />
 ## Overview
 My team and I were tasked with answering the folowing questions:
