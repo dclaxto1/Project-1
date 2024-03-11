@@ -18,7 +18,7 @@ We then used the OMDB API (http://www.omdbapi.com) to find all the awards wins &
 ### Does the number of awards impact box office success?
 ![Fig_Awards Wins   Nominations VS Box Office](https://github.com/dclaxto1/Project-1/assets/128431134/2a6aa064-9363-4060-816a-49541c62704e)
 <br />
-We found the correlation between the number of wins & nomininations and box officer earnings is .271396 
+We found the correlation between the number of wins & nomininations and box officer earnings is .271396  
 indicating there is not a strong relationship between the award wins and box office earnings.
 
 ### What is the most popular genre in the top 1000 movies dataset?
