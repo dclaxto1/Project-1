@@ -1,4 +1,4 @@
-# Project-1 
+# Project-1  
 Data analysis and manipulation with Pandas, Matplotlib, and OMDB API.
 <br />
 ## Overview
