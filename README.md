@@ -7,7 +7,7 @@ My team and I were tasked with answering the folowing questions:
 2. Does movie rating (G,PG, PG-13, ETC) impact box office earnings?
 3. Have movies gotten longer over the years?
 4. What actor has the most movies in the top 1000?
-5. What actor has the highest average movie rating?
+5. What actor has the highest average movie rating? 
 6. What is the most popular genre in the top 1000 movies dataset?
  
 ## Methodogolgy 
