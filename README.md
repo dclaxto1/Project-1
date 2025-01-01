@@ -10,7 +10,7 @@ My team and I were tasked with answering the folowing questions:
 5. What actor has the highest average movie rating? 
 6. What is the most popular genre in the top 1000 movies dataset? 
  
-## Methodogolgy 
+## Methodogolgy   
 To accomplish this my team and I pulled the data into a pandas dataframe and cleaned it for analysis.  
 We then standardized the movie ratings by placing them all into US standardard ratings. 
 We then used the OMDB API (http://www.omdbapi.com) to find all the awards wins & nominations per movie.
