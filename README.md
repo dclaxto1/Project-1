@@ -2,7 +2,7 @@
 Data analysis and manipulation with Pandas, Matplotlib, and OMDB API.
 <br />
 ## Overview
-My team and I were tasked with answering the folowing questions:
+My team and I were tasked with answering the folowing questions: 
 1. Does the number of awards impact box office success?
 2. Does movie rating (G,PG, PG-13, ETC) impact box office earnings?
 3. Have movies gotten longer over the years?
