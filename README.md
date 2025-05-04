@@ -12,7 +12,7 @@ My team and I were tasked with answering the folowing questions:
  
 ## Methodogolgy     
 To accomplish this my team and I pulled the data into a pandas dataframe and cleaned it for analysis.  
-We then standardized the movie ratings by placing them all into US standardard ratings. 
+We then standardized the movie ratings by placing them all into US standardard ratings.  
 We then used the OMDB API (http://www.omdbapi.com) to find all the awards wins & nominations per movie.
 <br />
 ### Does the number of awards impact box office success?
